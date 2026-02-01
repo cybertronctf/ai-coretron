@@ -1,1 +1,0 @@
-print("ai-coretron FIX2")
